@@ -11,8 +11,6 @@ void main(void)
     // this is a new comment from develop branch
     // this is a new comment for merge conflict example by cool feature branch
 
-    ups
-
     while(1)
     {
         // do some stuff
