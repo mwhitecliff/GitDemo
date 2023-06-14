@@ -12,6 +12,7 @@ void main(void)
     myCoolFun(0);
 
     // this is a new comment from develop branch
+    // this is a new comment for merge conflict example by cool feature branch
 
     while(1)
     {
