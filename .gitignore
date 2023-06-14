@@ -1,0 +1,6 @@
+# Build results
+[Dd]ebug/
+
+# Generated files to exclude
+*.hex
+*.o
