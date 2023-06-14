@@ -8,7 +8,8 @@
 
 void main(void)
 {
-    // do some initialization
+    // call my ne function
+    myCoolFun(0);
     while(1)
     {
         // do some stuff
